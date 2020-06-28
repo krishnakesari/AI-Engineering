@@ -1,4 +1,4 @@
 # AI-Engineering
 
-## Machine Learning in Python
+## Machine Learning with Python
 1. Multiple Linear Regression using OLS
